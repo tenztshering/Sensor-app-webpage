@@ -1,0 +1,29 @@
+{
+  "name": "to-do",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.20.2",
+    "axios": "^0.26.1",
+    "framer-motion": "^6.3.3",
+    "framer-motion-3d": "^6.3.3",
+    "jquery": "^3.6.0",
+    "react": "^17.0.2",
+    "react-animated-cursor": "^2.4.0",
+    "react-dom": "^17.0.2",
+    "react-easy-marquee": "^1.2.3",
+    "react-router-dom": "^6.3.0",
+    "react-scroll-parallax": "^3.1.0",
+    "react-type-animation": "^1.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.9.0"
+  }
+}
