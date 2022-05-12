@@ -49,7 +49,7 @@ function Vlog() {
             <Parallax 
             speed={20}
             translateX={['0px', '0px']}
-            scale={[0.5, 1]}
+            scale={[0.2, 1]}
             rotate={[-120, 180]}
             easing="easeInQuad"
             >
