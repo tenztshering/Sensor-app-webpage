@@ -20,7 +20,7 @@ const Heading = () => {
         
     
     <div>
-          <h3 style={{color:'#ccc'}}>By Sensor App Group</h3>
+          <h3 style={{color:'#ccc'}}>By DSP App development</h3>
     </div>
     </div>
   )
