@@ -1,7 +1,7 @@
 import React from 'react';
-import Phone from '../assets/Layout_Group.png';
+import Phone from '../assets/Dashboard.png';
 import { Parallax } from 'react-scroll-parallax';
-import mockup from '../assets/layOut.png'
+import mockup from '../assets/screenShot.png'
 
 function Vlog() {
 
@@ -33,6 +33,7 @@ function Vlog() {
         // backgroundColor: '#003',
         height:'40em',
         width:'30em',
+        overflowX: 'hidden',
     }
 
     const para2 = {
@@ -40,6 +41,7 @@ function Vlog() {
         padding: '2%',
         borderRadius: '10px',
         margin: '5%',
+        overflowX: 'hidden',
     }
     
   return (
@@ -86,7 +88,7 @@ function Vlog() {
             translateY={['200', '-200']}
             translateX={['0px', '0px']}
         >
-            <img src={mockup} alt='logo'width={500} />
+            <img src={mockup} alt='logo'width={400} />
         </Parallax>
         </div>
     </div>
