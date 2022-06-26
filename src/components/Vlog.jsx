@@ -75,9 +75,8 @@ function Vlog() {
             <p style={para2}>Compatible with LoRa Sensor</p>
             <p style={para2}>Display Variety of Sensors</p>
             <p style={para2}>Overall combined data</p>
-            <p style={para2}>Display Variety of Sensors</p>
-            <p style={para2}>Compatible with LoRa Sensor</p>
-            <p style={para2}>Preferred  Unit measurement</p>
+            <p style={para2}>Combine to create avarage value</p>
+            <p style={para2}>Preferred Unit measurement</p>
             <p style={para2}>Customised Dasboard</p>
             <p style={para2}>Overall combined data</p>
         </div>
